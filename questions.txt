@@ -1,2 +1,10 @@
 What is the lowest male voice? (type)
-Bass voice
+Bass,bass voice
+In which year was Google launched on the web?
+1998,year 1998,the year 1998
+How many digits does an IBAN number consist of?
+Fourteen,fourteen digits
+What does the S of ADSL stand for?
+Subscriber
+What is the lightest existing metal?
+Aluminium
